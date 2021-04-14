@@ -1,0 +1,70 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="toptitle">Top 10 places you must visit.</string>
+    <string name="site">Source from touropia</string>
+
+    <string name="top1">1. Medieval Town of Rhodes</string>
+    <string name="top1desc">Occupiers over the centuries have left their stamp on the Medieval Town of Rhodes,
+    which dates back hundreds of years before the birth of Christ. The conquerors that had the most influence over
+    this ancient city were the Order of the Knights of Saint Jon or Jerusalem that occupied Rhodes from 1308 to 1523.
+    The Palace of the Grand Masters which functioned as their headquarters is one of the greatest monuments erected in the Middle Ages.
+    The Upper Town, with its Street of the Knights and 4 km (2.5 mile) long wall,
+    is considered a very beautiful example of Gothic architecture The Lower Town features embellishments such
+    as mosques and public baths that were added by the Ottomans. By foot is the best way to explore this gems.</string>
+    <string name="top2">2. Acropolis of Lindos</string>
+    <string name="top2desc">Since it was occupied by so many forces, from the Greeks to the Ottomans,
+        the Acropolis of Lindos is an interesting site archaeologically. It’s also a scenic site since it sits on a 115-meter
+        (380-foot) high rock overlooking the sea. Access is by a steep hike up a footpath, but worth the trip.
+        Once at the top, visitors will find a well preserved Acropolis enclosed by battlements,
+        20 white Hellenistic columns and remains of the temple to Athena Lindia. There’s no shade at the top,
+        so visitors may want to wear hats and take along water to drink.</string>
+    <string name="top3">3. Tsambika Beach</string>
+    <string name="top3desc">Tsambika Beach is considered one of the most beautiful beaches on Rhodes. It’s hard to dispute that:
+        Turquoise blue waters lap on the half-mile of pure golden sand beach. Owned by the Orthodox church,
+        Tsambika Beach is overlooked by a peak where stands the Tsambika Monastery. Because the water is shallow and sandy,
+        the beach is considered a good place for families to have fun in the sun, either lying under an umbrella or participating in water sports.
+        A section of the beach is set aside for visitors who prefer to go au naturel.</string>
+    <string name="top4">4. Monolithos Castle</string>
+    <string name="top4desc">At one time, Monolithos Castle was considered one of the most powerful fortresses on Rhodes.
+        Built in 1470, not much of the castle remains today save the external walls. One thing that does remain, however,
+        is the stupendous view at the top of the hill that overlooks the sea. In order to enjoy the view, hardy visitors
+        will have to climb up via small steep stone steps; the climb is strenuous, so past visitors recommend frequent breaks to rest.
+        Inside the castle that was built on a former castle, travelers will find two 15th century chapels.</string>
+    <string name="top5">5. Lindos Beach</string>
+    <string name="top5desc">Located 50 km (31 miles) south of Rhodes city, Lindos is a popular tourist destination because of its ancient ruins
+        and great beaches. With a history that dates back to the 10th century BC, Lindos was once a meeting place for the Greeks and Phoenicians,
+        and later became a major trading center. It once had a large temple complex that fell into disuse during the early medieval period;
+        it is an important archaeological site today. The beach itself is a busy place, with many British residents spending entire summers here.
+        The deep blue bay waters make Lindos Beach an especially pretty tourist attraction in Rhodes.</string>
+    <string name="top6">6. Faliraki Beach</string>
+    <string name="top6desc">Travelers who are party animals are likely to gravitate to Faliraki beach, the most popular seaside resort on Rhodes.
+        By day, visitors laze under colorful striped umbrellas on the beach; by night, they find entertainment under brightly colored neon lights.
+        From shopping to bungee-jumping, Faliraki beach has it all. Faliraki also is home to the largest water park in Europe where visitors can
+        do down a variety of slides; the park has a special section for children. Visitors can enjoy themselves under safe conditions,
+        since Faliraki beach has 12 Blue Flags from the Foundation for Environmental Education with its strict safely standards.</string>
+    <string name="top7">7. Tsambika Monastery</string>
+    <string name="top7desc">Travelers looking for tremendous scenic views in a religious setting may enjoy a visit to Tsambika Monastery
+        that is situated on a hill. The hill, about 25 km (15 miles) from Rhodes city, is topped by a small Byzantine church dedicated to Our Lady.
+        A local legend says if an infertile woman climbs the hill she will be blessed with a child, which must be named after the monastery.
+        The legend must be true since many island residents answer to this name. Origins of the first monastery are unclear,
+        but a working monastery was constructed in 1770.</string>
+    <string name="top8">8. Anthony Quinn Bay</string>
+    <string name="top8desc">Anthony Quinn may have been from Mexico, but he filmed several movies in Greece, including Zorba the
+        Greek and Guns of the Navarone, which was filmed at Faliraki. While there, the actor bought the bay part of the island.
+        Because of this, the bay was renamed from Vagies Bay to Anthony Quinn Bay, which is just over a mile from Faliraki.
+        Because of its rock surroundings and crystal clear emerald water, it’s considered one of the most beautiful beaches on Rhodes.
+        The bay is a popular mooring spot for sail boats and small watercraft.</string>
+    <string name="top9">9. Ancient Kamiros</string>
+    <string name="top9desc">Kamiros is an ancient city on the northwest coast of Rhodes. Kamiros is one of three Doric cities that
+        combined with two others to form the city-state of Rhodes. Its residents, however, gradually abandoned
+        Kamiros to move to the city of Rhodes. Mentioned by Homer in his writings, forests covered the city until ancient graves were discovered in
+        1929 and an excavation of Kamiros began. Archaeologists believe a temple to Athena topped the Acropolis,
+        but it was destroyed in a 226 BC earthquake. The city was built on three levels: the Acropolis on top,
+        residents in the middle, and water reservoirs on the bottom.</string>
+    <string name="top10">10. Mandraki Harbor</string>
+    <string name="top10desc">Mandraki Harbor is one of three harbors on Rhodes and the only yacht harbor.
+        It is thought one of the Seven Wonders of the World, the statue Colossus of Rhodes once stood in this harbor.
+        Travelers today will find deer sculptures, medieval windmills and the St. Nicholas fortress at the entrance.
+        The windmills were once used to grind grain brought to the harbor by ancient cargo ships; most have disintegrated,
+        but three have been renovated. Mandraki Harbor was once the military port for Rhodes and could be closed by chains.
+        Now yachts, cruise ships and fishing boats share the harbor.</string>
+</resources>

@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Explore Rhodes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_about">About Rhodes</string>
+    <string name="menu_home">Rhodes History</string>
+    <string name="menu_gallery">Top 10 places to visit</string>
+    <string name="menu_slideshow">Entertainment</string>
+    <string name="menu_tools">Accommodation</string>
+    <string name="menu_transport">Transport</string>
+    <string name="menu_info_for_useful_places">Information for useful places</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_weather">Weather</string>
+    <string name="menu_news">News</string>
+
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Contact us</string>
+    <string name="menu_bug">Report Bug</string>
+
+    <string name="ExploreRhodes">Explore Rhodes</string>
+    <string name="Site">NoSiteYet</string>
+
+    <string name="title">About Rhodes</string>
+    <string name="about1">Rhodes (Greek: Ρόδος, romanized: Ródos [\'roðos]) is the largest of the Dodecanese islands of Greece and is also the island group\'s historical capital.
+        Administratively the island forms a separate municipality within the Rhodes regional unit, which is part of the South Aegean administrative region.
+        The principal town of the island and seat of the municipality is Rhodes. The city of Rhodes had 50,636 inhabitants in 2011.
+        It is located northeast of Crete, southeast of Athens. Rhodes\' nickname is The Island of the Knights, named after the Knights of Saint John of Jerusalem, who ruled the island from 1310 to 1522.
+        Historically, Rhodes island was very famous worldwide for the Colossus of Rhodes, one of the Seven Wonders of the Ancient World.
+        The Medieval Old Town of the City of Rhodes has been declared a World Heritage Site. Today, it is one of the most popular tourist destinations in Europe.
+        The name of the U.S. state of Rhode Island is thought to be based on this island.</string>
+    <string name="wiki">Source from Wikipedia</string>
+
+    <string name="Contact">Contact us</string>
+    <string name="Subject">Subject</string>
+    <string name="send">SEND</string>
+    <string name="contInfo">Your contact info</string>
+    <string name="mailText">Write here your text</string>
+    <string name="mail">e-mail: fsharp.source@gmail.com</string>
+
+    <string name="Weather">Weather</string>
+
+</resources>

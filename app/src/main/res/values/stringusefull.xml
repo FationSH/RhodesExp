@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="tilteuseful">Useful informations</string>
+
+    <string name="hosp">Rhodes General Hospital</string>
+    <string name="callcenter1">Call Center: </string>
+    <string name="telhosp">2241360000</string>
+    <string name="hospaddress">Address: Christiaan Barnard 1, Postcode: 85133</string>
+    <string name="linkhosp">site: www.rhodes-hospital.gr/</string>
+
+    <string name="police">Police Department Of Rhodes</string>
+    <string name="callcenter2">Service Officer: </string>
+    <string name="telpol">2241023849</string>
+    <string name="poladdress">Address: Ethelonton Dodekanision 43, Postcode: 85100</string>
+    <string name="linkpol">site: www.astynomia.gr/</string>
+
+    <string name="coastg">Coast Guard of Rhodes</string>
+    <string name="callcenter3">Telephone: </string>
+    <string name="telcg">2241028666</string>
+    <string name="cgaddress">Address: Platia Eleftherias 1, Postcode: 85100</string>
+    <string name="linkcg">site: www.hcg.gr/node/183</string>
+
+    <string name="firedep">Fire Brigade Station</string>
+    <string name="callcenter4">Telephone: </string>
+    <string name="telfd">2241043560</string>
+    <string name="fdaddress">Address: Ethelonton Dodekanision 44, Postcode: 85100</string>
+</resources>
